@@ -8,14 +8,13 @@
 .. _start:
 
 ========================================================================
-TYPO3 Documentation Starter  <- Change this to your title!
+Using Git for maintaining TYPO3
 ========================================================================
 
-:Author:          My Name <my.name@domain.global>
+:Author:          Michael Stucki <michael.stucki@typo3.org>
 :Buildinfo:       `Make folder <_make>`_ (if on docs.typo3.org)
-:Copyright:       2013 ...
-:Description:     This is a recommended template to start any ReST based
-                  documentation for TYPO3 (ReST = ReStructuredText)
+:Copyright:       2013 Michael Stucki
+:Description:     This tutorial explains how to maintain the TYPO3 source on a webserver using Git.
 :License:         `CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>`_
 :Rendered:        |today|
 
